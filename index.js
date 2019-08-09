@@ -14,11 +14,3 @@ function logWhisper(string){
   console.log (string.toLowerCase())
 }
 
-function sayHiToGrandma(string){
-  
-  var LC = small
-  
-  if 
-  
-}
-  
