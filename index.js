@@ -16,7 +16,9 @@ function logWhisper(string){
 
 function sayHiToGrandma(string){
   
-  var
+  var LC = small
+  
+  if 
   
 }
   
